@@ -1,0 +1,3 @@
+module.exports=[901031,a=>{"use strict";a.s(["default",()=>b]);let b=(0,a.i(211857).registerClientReference)(function(){throw Error("Attempted to call the default export of [project]/src/components/auth/error-modules/NotFoundScreen.tsx from the server, but it's on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.")},"[project]/src/components/auth/error-modules/NotFoundScreen.tsx","default")},682715,a=>{"use strict";var b=a.i(901031);a.n(b)},903363,a=>{"use strict";var b=a.i(907997),c=a.i(682715);a.s(["default",0,function(){return(0,b.jsx)(c.default,{})}])},517537,function(a){a.n(a.i(903363))}];
+
+//# sourceMappingURL=src_1n93-u0._.js.map

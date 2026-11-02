@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(feature-module)/layout,_N_T_/(feature-module)/staffs/layout,_N_T_/(feature-module)/staffs/page,_N_T_/staffs"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGZlYXR1cmUtbW9kdWxlKQ/staffs/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 96,
+        "slots": {
+          "children": {
+            "hints": 96,
+            "slots": {
+              "children": {
+                "hints": 160,
+                "slots": null
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

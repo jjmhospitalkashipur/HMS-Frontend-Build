@@ -1,0 +1,3 @@
+{
+  "/(feature-module)/add-invoices/page": "app/(feature-module)/add-invoices/page.js"
+}

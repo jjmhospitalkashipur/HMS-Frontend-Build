@@ -1,0 +1,3 @@
+module.exports=[716113,a=>{"use strict";var b=a.i(187924),c=a.i(238246);a.s(["default",0,()=>(0,b.jsx)(b.Fragment,{children:(0,b.jsx)("div",{className:"footer text-center bg-white p-2 border-top",children:(0,b.jsxs)("p",{className:"text-dark mb-0",children:["2025 ©",(0,b.jsx)(c.default,{href:"#",className:"link-primary",children:"Preclinic"}),", All Rights Reserved"]})})})])}];
+
+//# sourceMappingURL=src_core_common_footer_footer_tsx_0ia4i_m._.js.map

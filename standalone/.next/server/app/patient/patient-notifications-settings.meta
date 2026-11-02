@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(feature-module)/layout,_N_T_/(feature-module)/(dashboard)/layout,_N_T_/(feature-module)/(dashboard)/patient/layout,_N_T_/(feature-module)/(dashboard)/patient/patient-notifications-settings/layout,_N_T_/(feature-module)/(dashboard)/patient/patient-notifications-settings/page,_N_T_/patient/patient-notifications-settings"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGZlYXR1cmUtbW9kdWxlKQ/!KGRhc2hib2FyZCk/patient/patient-notifications-settings/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 96,
+        "slots": {
+          "children": {
+            "hints": 96,
+            "slots": {
+              "children": {
+                "hints": 96,
+                "slots": {
+                  "children": {
+                    "hints": 96,
+                    "slots": {
+                      "children": {
+                        "hints": 160,
+                        "slots": null
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

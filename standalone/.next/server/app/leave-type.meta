@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(feature-module)/layout,_N_T_/(feature-module)/leave-type/layout,_N_T_/(feature-module)/leave-type/page,_N_T_/leave-type"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGZlYXR1cmUtbW9kdWxlKQ/leave-type/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 96,
+        "slots": {
+          "children": {
+            "hints": 96,
+            "slots": {
+              "children": {
+                "hints": 160,
+                "slots": null
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

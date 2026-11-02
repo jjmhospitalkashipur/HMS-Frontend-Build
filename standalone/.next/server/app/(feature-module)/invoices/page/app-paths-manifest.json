@@ -1,0 +1,3 @@
+{
+  "/(feature-module)/invoices/page": "app/(feature-module)/invoices/page.js"
+}

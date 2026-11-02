@@ -1,0 +1,3 @@
+{
+  "/(feature-module)/edit-appointment/[id]/page": "app/(feature-module)/edit-appointment/[id]/page.js"
+}

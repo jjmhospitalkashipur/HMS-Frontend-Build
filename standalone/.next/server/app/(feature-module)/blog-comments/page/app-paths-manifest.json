@@ -1,0 +1,3 @@
+{
+  "/(feature-module)/blog-comments/page": "app/(feature-module)/blog-comments/page.js"
+}

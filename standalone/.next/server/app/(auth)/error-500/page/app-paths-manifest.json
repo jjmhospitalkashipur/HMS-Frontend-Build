@@ -1,0 +1,3 @@
+{
+  "/(auth)/error-500/page": "app/(auth)/error-500/page.js"
+}

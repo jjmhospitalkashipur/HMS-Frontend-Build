@@ -1,0 +1,3 @@
+{
+  "/(feature-module)/ui-grid/page": "app/(feature-module)/ui-grid/page.js"
+}

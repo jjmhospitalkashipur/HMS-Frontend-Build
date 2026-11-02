@@ -1,0 +1,3 @@
+{
+  "/(feature-module)/ui-counter/page": "app/(feature-module)/ui-counter/page.js"
+}

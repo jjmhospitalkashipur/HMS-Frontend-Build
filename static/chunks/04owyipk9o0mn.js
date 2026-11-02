@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,737292,t=>{"use strict";var i=t.i(843476),e=t.i(773926);t.s(["default",0,t=>{let s=`${e.img_path}${t.src}`;return(0,i.jsx)("img",{className:t.className,src:s,height:t.height,alt:t.alt,width:t.width,id:t.id})}])}]);
